@@ -8,8 +8,8 @@ This repository contains implementations for various computer vision and deep le
 
 ## List of Projects
 
-| Project Name | Description | Link |
-| ------------ | ----------- | ---- |
+| Project Name | Description |
+| ------------ | ----------- |
 | **[Image Classifier for Street View House Numbers (SVHN) Dataset](StreetViewHouseNumbers_Classifier/)** | A deep learning model for classifying house numbers from the SVHN dataset, showcasing techniques for image classification. |  |
 | **[Simple CNN Image Classifier for CIFAR-10 Dataset](CIFAR10_Image_Classifier/)** | A basic Convolutional Neural Network (CNN) implementation to classify images from the CIFAR-10 dataset. |  |
 | **[Convolutional Neural Network Visualizer](ConvolutionalNeuralNetworkVisualizer/)** | A tool to visualize and understand the inner workings of Convolutional Neural Networks (CNNs). |  |
