@@ -1,6 +1,3 @@
-Here's an improved version of your README with enhanced structure, clarity, and detail:
-
----
 
 # Computer Vision and Deep Learning Projects
 
@@ -49,6 +46,3 @@ For running these projects, the following dependencies may be required (dependin
 
 If you have suggestions or improvements, feel free to fork this repository, create a pull request, or open an issue.
 
----
-
-Let me know if you'd like further tweaks!
